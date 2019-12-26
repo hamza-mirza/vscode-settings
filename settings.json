@@ -1,0 +1,22 @@
+"workbench.colorCustomizations":{
+  "tab.border": "#20222c", // colour of the border between opened tabs
+  "tab.activeBackground": "#20222c", // backgroud colour of the active file tab
+  "tab.inactiveBackground": "#20222c", // bacground colour of inactive file tabs
+  "editorGroupHeader.tabsBackground": "#20222c", // background colour of the entire tab container that lives at the top
+  "editor.background": "#20222c", // backgroud colour of the code editor
+  "sideBar.background": "#191b22", // background colour of the sidebar
+  "editorIndentGuide.activeBackground": "#ffffff07", // colour of the indent guides
+  "editor.lineHighlightBackground": "#20222c", // border colour of the active line
+  "editorIndentGuide.background": "#ffffff07", // colour of the active line
+  "sideBarSectionHeader.background": "#191b22", // colour of the tabs in sidebar
+},
+"editor.renderWhitespace": "none", // removes whitespace chars
+"editor.hideCursorInOverviewRuler": true, // hides cursor mark in the overview ruler
+"editor.folding": false, // removes the folding feature
+"editor.glyphMargin": false, // removes the space used mainly for debugging indicators
+"explorer.openEditors.visible": 0, // removes the open editors section at the top of the sidebar, you can see the opened files with ⌘ + ⌥ + Tab
+"workbench.activityBar.visible": false, // removes the activity bar (the 4 icons at the left of the screen), so now you will have to open the explorer, git, debugger and extension with shortcuts or through the Command Palette
+"workbench.statusBar.visible": false,
+"editor.overviewRulerBorder": false,
+"workbench.editor.showIcons": true, // removes icon from opened files in tabs
+"editor.occurrencesHighlight": false,
